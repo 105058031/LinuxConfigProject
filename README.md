@@ -19,7 +19,7 @@ Server language is english
 SSH logon is only permitted via public-private keypair, password logon is not enabled
 2 users setup ubuntu(default/sudoer)
               grader(sudoer)
-
+Root logon is disabled
 Configured to serve webpages from /var/html/apache2 folder 
 virtual environment venv is set up and configured to serve 
 Flask applications from /var/www/PythonPredix/PythonPredix folder 
@@ -43,4 +43,4 @@ Cloudfoundry Python Buildpack
 Google OAuth2 service  
 
 VI. Version 
-1.0 - 12/03/2018
+1.1 - 12/04/2018
